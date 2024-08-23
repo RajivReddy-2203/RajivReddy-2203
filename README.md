@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajivreddy-2203&label=Profile%20views&color=0e75b6&style=flat" alt="rajivreddy-2203" /> </p>
 
-- 🌱 I’m currently learning **Python, DSA**
+- 🌱 I’m currently learning **AWS, DSA**
 
 - 💬 Ask me about **anything related to programming**
 
